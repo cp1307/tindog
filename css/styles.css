@@ -161,6 +161,10 @@ p {
   line-height: 1.5;
 }
 
+.row-pad {
+  padding: 2%;
+}
+
 /* CTA section */
 #cta {
   background-color: #ff4c68;
