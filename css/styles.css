@@ -107,7 +107,8 @@ p {
 }
 
 .feature-pad {
-  padding: 3% 2%;
+  margin-bottom: 1.5rem;
+  padding-bottom: 1.5rem;
 }
 
 /* Testimonal Section */
