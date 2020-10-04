@@ -106,6 +106,10 @@ p {
   margin: auto;
 }
 
+.feature-pad {
+  padding: 3%;
+}
+
 /* Testimonal Section */
 #testimonials {
   background-color: #ef8172;
